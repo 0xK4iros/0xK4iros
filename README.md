@@ -1,6 +1,3 @@
----
-title: "GitHub Profile"
----
 
 <!-- Banner -->
 <div align="center">
