@@ -41,12 +41,6 @@ PortSwigger Cert → eJPT → PNPT → OSCP → CRTO
 
 ---
 
-## Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xK4iros&show_icons=true&theme=dark&bg_color=000000&title_color=cc0000&icon_color=cc0000&text_color=ffffff&border_color=cc0000" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xK4iros&layout=compact&theme=dark&bg_color=000000&title_color=cc0000&text_color=ffffff&border_color=cc0000" height="165"/>
-</div>
 
 ---
 
