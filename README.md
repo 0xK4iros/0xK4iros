@@ -41,9 +41,6 @@ PortSwigger Cert → eJPT → PNPT → OSCP → CRTO
 
 ---
 
-
----
-
 ## Blog
 
 Write-ups, tooling breakdowns, and progress notes at **[0xk4iros.github.io](https://0xk4iros.github.io)**
